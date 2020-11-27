@@ -25,7 +25,7 @@ p    {color: red;}
 
 <img src="wturkey-3048299_1920-1366x550.jpg" alt="https://images.app.goo.gl/ABnpKBX3YbBNRYuPA" width="104" height="142">
 <img src="wed-blog-shutterstock_1703194387_low_nwm.jpg" alt="https://images.app.goo.gl/ciSBdwafiu6YJCFF7" width="104" height="142">
-  <img src="w3schools.jpg" alt="https://images.app.goo.gl/4nBBxorDp8s6bA286" width="104" height="142">
+  <img src="index.jpeg" alt="https://images.app.goo.gl/4nBBxorDp8s6bA286" width="104" height="142">
 
 
 </body>
